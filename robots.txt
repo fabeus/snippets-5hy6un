@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fabeus.github.io/snippets-5hy6un/sitemap.xml
